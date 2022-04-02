@@ -1,1 +1,6 @@
-数据库课程设计之网络教学平台
+```shell
+$ pip install -r requirements.txt
+
+$ python manage.py runserver
+```
+
