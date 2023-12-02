@@ -49,34 +49,5 @@ The online teaching platform consists of five major modules: the instructor syst
    - Exam Management: Creating questions, publishing exams, and grading exam scores.
  
 
-**System Functional Diagram**
-# Online Teaching Platform
 
-## Instructor System Module
-- User Management
-- Basic Course Info Management
-- Student Management
-- Teaching Material Management
-- Assignment Management
-- Exam Management
-
-## Forum Management Module
-- Discussion Forum Management
-- User Comments Management
-
-## Student System Module
-- Online Testing
-- Online Learning
-- Assignment Inquiry
-- Download or Browse Materials
-- Personal Space
-
-## Teaching Management System Module
-- User Management
-- Basic Info Management
-- Question Bank Management
-
-## Process Assessment Module
-- Student Progress Monitoring
-- Performance Assessment
 
